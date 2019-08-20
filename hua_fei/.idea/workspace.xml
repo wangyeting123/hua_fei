@@ -2,149 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb95386b-5d17-4a1f-b9f9-b6b3a16737dc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Blog/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Blog/apps/ArticleAbout/SerData.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Blog/apps/UserAbout/SerData.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Blog/apps/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/hua_fei.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/hua_fei.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/haotp_1_huafei/about.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/haotp_1_huafei/contact.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/haotp_1_huafei/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/haotp_1_huafei/join.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/haotp_1_huafei/message.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/haotp_1_huafei/new_info.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/haotp_1_huafei/new_list.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/haotp_1_huafei/product_info.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/haotp_1_huafei/product_list.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hua_fei/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hua_fei/settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hua_fei/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hua_fei/wsgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/manage.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/show_company_info/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/show_company_info/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/show_company_info/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/show_company_info/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/show_company_info/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/show_company_info/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/show_company_info/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/show_company_info/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/default.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/default.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/default.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/FontAwesome.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/fontawesome-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/fontawesome-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/fontawesome-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/fontawesome-webfont.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/iconfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/iconfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/iconfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/iconfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/article.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/index_product.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/index_slides.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/lunbo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/product.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/tab.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/未标题-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/main.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/main.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/lib/amazeui/amazeui.ie8polyfill.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/lib/amazeui/amazeui.ie8polyfill.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/lib/amazeui/amazeui.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/lib/amazeui/amazeui.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/lib/amazeui/amazeui.widgets.helper.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/lib/amazeui/amazeui.widgets.helper.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/lib/handlebars/amd/handlebars.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/lib/handlebars/amd/handlebars.runtime.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/lib/handlebars/amd/handlebars/base.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/lib/handlebars/amd/handlebars/compiler/ast.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/lib/handlebars/amd/handlebars/compiler/base.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/lib/handlebars/amd/handlebars/compiler/code-gen.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/lib/handlebars/amd/handlebars/compiler/compiler.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/lib/handlebars/amd/handlebars/compiler/helpers.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/lib/handlebars/amd/handlebars/compiler/javascript-compiler.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/lib/handlebars/amd/handlebars/compiler/parser.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/lib/handlebars/amd/handlebars/compiler/printer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/lib/handlebars/amd/handlebars/compiler/visitor.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/lib/handlebars/amd/handlebars/compiler/whitespace-control.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/lib/handlebars/amd/handlebars/decorators.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/lib/handlebars/amd/handlebars/decorators/inline.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/lib/handlebars/amd/handlebars/exception.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/lib/handlebars/amd/handlebars/helpers.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/lib/handlebars/amd/handlebars/helpers/block-helper-missing.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/lib/handlebars/amd/handlebars/helpers/each.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/lib/handlebars/amd/handlebars/helpers/helper-missing.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/lib/handlebars/amd/handlebars/helpers/if.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/lib/handlebars/amd/handlebars/helpers/log.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/lib/handlebars/amd/handlebars/helpers/lookup.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/lib/handlebars/amd/handlebars/helpers/with.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/lib/handlebars/amd/handlebars/logger.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/lib/handlebars/amd/handlebars/no-conflict.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/lib/handlebars/amd/handlebars/runtime.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/lib/handlebars/amd/handlebars/safe-string.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/lib/handlebars/amd/handlebars/utils.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/lib/handlebars/amd/precompiler.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/lib/handlebars/cjs/handlebars.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/lib/handlebars/cjs/handlebars.runtime.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/lib/handlebars/cjs/handlebars/base.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/lib/handlebars/cjs/handlebars/compiler/ast.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/lib/handlebars/cjs/handlebars/compiler/base.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/lib/handlebars/cjs/handlebars/compiler/code-gen.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/lib/handlebars/cjs/handlebars/compiler/compiler.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/lib/handlebars/cjs/handlebars/compiler/helpers.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/lib/handlebars/cjs/handlebars/compiler/javascript-compiler.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/lib/handlebars/cjs/handlebars/compiler/parser.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/lib/handlebars/cjs/handlebars/compiler/printer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/lib/handlebars/cjs/handlebars/compiler/visitor.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/lib/handlebars/cjs/handlebars/compiler/whitespace-control.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/lib/handlebars/cjs/handlebars/decorators.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/lib/handlebars/cjs/handlebars/decorators/inline.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/lib/handlebars/cjs/handlebars/exception.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/lib/handlebars/cjs/handlebars/helpers.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/lib/handlebars/cjs/handlebars/helpers/block-helper-missing.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/lib/handlebars/cjs/handlebars/helpers/each.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/lib/handlebars/cjs/handlebars/helpers/helper-missing.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/lib/handlebars/cjs/handlebars/helpers/if.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/lib/handlebars/cjs/handlebars/helpers/log.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/lib/handlebars/cjs/handlebars/helpers/lookup.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/lib/handlebars/cjs/handlebars/helpers/with.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/lib/handlebars/cjs/handlebars/logger.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/lib/handlebars/cjs/handlebars/no-conflict.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/lib/handlebars/cjs/handlebars/runtime.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/lib/handlebars/cjs/handlebars/safe-string.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/lib/handlebars/cjs/handlebars/utils.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/lib/handlebars/cjs/precompiler.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/lib/handlebars/handlebars.amd.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/lib/handlebars/handlebars.amd.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/lib/handlebars/handlebars.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/lib/handlebars/handlebars.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/lib/handlebars/handlebars.runtime.amd.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/lib/handlebars/handlebars.runtime.amd.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/lib/handlebars/handlebars.runtime.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/lib/handlebars/handlebars.runtime.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/lib/iscroll/iscroll-infinite.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/lib/iscroll/iscroll-lite.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/lib/iscroll/iscroll-probe.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/lib/iscroll/iscroll-zoom.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/lib/iscroll/iscroll.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/lib/jquery/core.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/lib/jquery/jquery.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/lib/jquery/jquery.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/lib/jquery/jquery.min.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/lib/jquery/jquery.slim.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/lib/jquery/jquery.slim.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/lib/jquery/jquery.slim.min.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/lib/raty/fonts/raty.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/lib/raty/fonts/raty.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/lib/raty/fonts/raty.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/lib/raty/fonts/raty.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/lib/raty/images/cancel-off.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/lib/raty/images/cancel-on.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/lib/raty/images/star-half.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/lib/raty/images/star-off.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/lib/raty/images/star-on.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/lib/raty/jquery.raty.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/lib/raty/jquery.raty.js" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -188,7 +51,7 @@
     <session id="1422604698">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.9" value="1" />
@@ -198,19 +61,21 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="1" />
-          <entry key="py" value="487" />
+          <entry key="py" value="575" />
+          <entry key="txt" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="1" />
-          <entry key="Python" value="487" />
+          <entry key="PLAIN_TEXT" value="7" />
+          <entry key="Python" value="575" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="html" value="4" />
-          <entry key="py" value="7" />
+          <entry key="py" value="16" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
@@ -218,13 +83,26 @@
         <counts>
           <entry key="HTML" value="4" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="7" />
+          <entry key="Python" value="16" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Blog/Blog/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="48" column="21" selection-start-line="48" selection-start-column="21" selection-end-line="48" selection-end-column="21" />
+              <folding>
+                <element signature="e#306#315#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -244,6 +122,13 @@
         <option value="$PROJECT_DIR$/show_company_info/views.py" />
         <option value="$PROJECT_DIR$/show_company_info/urls.py" />
         <option value="$PROJECT_DIR$/hua_fei/settings.py" />
+        <option value="$PROJECT_DIR$/Blog/__init__.py" />
+        <option value="$PROJECT_DIR$/Blog/apps/user_about/ser_data.py" />
+        <option value="$PROJECT_DIR$/Blog/apps/article_about/ser_data.py" />
+        <option value="$PROJECT_DIR$/Blog/apps/ArticleAbout/SerData.py" />
+        <option value="$PROJECT_DIR$/Blog/apps/UserAbout/SerData.py" />
+        <option value="$PROJECT_DIR$/Blog/apps/UserAbout/models.py" />
+        <option value="$PROJECT_DIR$/Blog/Blog/settings.py" />
       </list>
     </option>
   </component>
@@ -253,7 +138,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="10" />
     <option name="y" value="20" />
     <option name="width" value="1000" />
@@ -276,12 +161,33 @@
             <path>
               <item name="hua_fei" type="b2602c69:ProjectViewProjectNode" />
               <item name="hua_fei" type="462c0819:PsiDirectoryNode" />
-              <item name="hua_fei" type="462c0819:PsiDirectoryNode" />
+              <item name="Blog" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="hua_fei" type="b2602c69:ProjectViewProjectNode" />
               <item name="hua_fei" type="462c0819:PsiDirectoryNode" />
-              <item name="show_company_info" type="462c0819:PsiDirectoryNode" />
+              <item name="Blog" type="462c0819:PsiDirectoryNode" />
+              <item name="apps" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hua_fei" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hua_fei" type="462c0819:PsiDirectoryNode" />
+              <item name="Blog" type="462c0819:PsiDirectoryNode" />
+              <item name="apps" type="462c0819:PsiDirectoryNode" />
+              <item name="ArticleAbout" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hua_fei" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hua_fei" type="462c0819:PsiDirectoryNode" />
+              <item name="Blog" type="462c0819:PsiDirectoryNode" />
+              <item name="apps" type="462c0819:PsiDirectoryNode" />
+              <item name="UserAbout" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hua_fei" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hua_fei" type="462c0819:PsiDirectoryNode" />
+              <item name="Blog" type="462c0819:PsiDirectoryNode" />
+              <item name="Blog" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -291,18 +197,19 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Blog" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="F:\PY_file\django_project_gather\git_warehouse\hua_fei\static" />
-      <recent name="F:\PY_file\django_project_gather\git_warehouse\hua_fei\haotp_1_huafei\js" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\PY文件\django_project_gather\hua_fei" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\PY_file\django_project_gather\git_warehouse\hua_fei\Blog\apps" />
+      <recent name="F:\PY_file\django_project_gather\git_warehouse\hua_fei\static" />
+      <recent name="F:\PY_file\django_project_gather\git_warehouse\hua_fei\haotp_1_huafei\js" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -353,10 +260,19 @@
       <option name="presentableId" value="Default" />
       <updated>1565867258648</updated>
     </task>
+    <task id="LOCAL-00001" summary="restart">
+      <created>1566196308417</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1566196308418</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13203754" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -386,6 +302,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="restart" />
+    <option name="LAST_COMMIT_MESSAGE" value="restart" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/haotp_1_huafei/js/main.js" />
@@ -443,6 +363,48 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
           <caret line="45" column="5" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blog/manage.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blog/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blog/apps/user_about/ser_data.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blog/apps/article_about/ser_data.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blog/apps/article_about/models.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blog/apps/UserAbout/SerData.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blog/apps/ArticleAbout/SerData.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blog/apps/UserAbout/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blog/Blog/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="48" column="21" selection-start-line="48" selection-start-column="21" selection-end-line="48" selection-end-column="21" />
+          <folding>
+            <element signature="e#306#315#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
