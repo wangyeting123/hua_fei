@@ -1,3 +1,1 @@
-一个简单的模板项目，后台是用Django写的，
-
-前端模板是在 cssmoban.com(可以找到免费的前端模板，只做学习交流使用) 上面找的
+一个简单的后端rest_framework项目，基于django编写
